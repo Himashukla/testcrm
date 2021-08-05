@@ -1,5 +1,5 @@
 <?php
-// created: 2021-08-04 13:01:20
+// created: 2021-08-05 11:34:16
 $dashletsFiles = array (
   'MyAccountsDashlet' => 
   array (
@@ -387,5 +387,12 @@ $dashletsFiles = array (
     'class' => 'MyTasksDashlet',
     'meta' => 'modules/Tasks/Dashlets/MyTasksDashlet/MyTasksDashlet.meta.php',
     'module' => 'Tasks',
+  ),
+  'test_TestFamilyDashlet' => 
+  array (
+    'file' => 'modules/test_TestFamily/Dashlets/test_TestFamilyDashlet/test_TestFamilyDashlet.php',
+    'class' => 'test_TestFamilyDashlet',
+    'meta' => 'modules/test_TestFamily/Dashlets/test_TestFamilyDashlet/test_TestFamilyDashlet.meta.php',
+    'module' => 'test_TestFamily',
   ),
 );

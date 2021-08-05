@@ -4,3 +4,5 @@ Wed Aug  4 13:00:35 2021 [12944][-none-][FATAL] User update error: Temp User is 
 Wed Aug  4 13:00:35 2021 [12944][-none-][FATAL] Email address save error
 Wed Aug  4 13:01:04 2021 [12944][-none-][FATAL] SECURITY: User authentication for admin failed
 Wed Aug  4 13:01:04 2021 [12944][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Thu Aug  5 11:32:35 2021 [7080][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Aug  5 11:32:38 2021 [7080][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
