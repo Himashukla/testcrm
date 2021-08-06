@@ -1,6 +1,10 @@
 <?php
-// created: 2021-08-06 05:29:28
+// created: 2021-08-06 11:52:13
 $mod_strings = array (
+  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
+  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
+  'LBL_SECURITYGROUPS' => 'Security Groups',
+  'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Security Groups',
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
   'LBL_DATE_MODIFIED' => 'Date Modified',
@@ -21,10 +25,6 @@ $mod_strings = array (
   'LBL_OPT_IN_PENDING_EMAIL_NOT_SENT' => 'Pending Confirm opt in, Confirm opt in not sent',
   'LBL_OPT_IN_PENDING_EMAIL_SENT' => 'Pending Confirm opt in, Confirm opt in sent',
   'LBL_OPT_IN_CONFIRMED' => 'Opted in',
-  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
-  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
-  'LBL_SECURITYGROUPS' => 'Security Groups',
-  'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Security Groups',
   'LBL_SALUTATION' => 'Salutation',
   'LBL_FIRST_NAME' => 'First Name',
   'LBL_LAST_NAME' => 'Last Name',
@@ -86,6 +86,7 @@ $mod_strings = array (
   'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activities',
   'LBL_STUD_STUDENT_SUBPANEL_TITLE' => 'Student',
   'LBL_NEW_FORM_TITLE' => 'New Student',
+  'LBL_ACCOUNTS_STUD_STUDENT_1_FROM_ACCOUNTS_TITLE' => 'Accounts',
   'LBL_STUD_STUDENT_DOCUMENTS_FROM_DOCUMENTS_TITLE' => 'Documents',
   'LBL_STUD_STUDENT_PROJECT_FROM_PROJECT_TITLE' => 'Projects',
 );
