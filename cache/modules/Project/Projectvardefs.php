@@ -431,6 +431,16 @@
       'default' => '0',
       'comment' => '',
     ),
+    'stud_student_project' => 
+    array (
+      'name' => 'stud_student_project',
+      'type' => 'link',
+      'relationship' => 'stud_student_project',
+      'source' => 'non-db',
+      'module' => 'stud_student',
+      'bean_name' => 'stud_student',
+      'vname' => 'LBL_STUD_STUDENT_PROJECT_FROM_STUD_STUDENT_TITLE',
+    ),
     'jjwg_maps_address_c' => 
     array (
       'inline_edit' => 1,

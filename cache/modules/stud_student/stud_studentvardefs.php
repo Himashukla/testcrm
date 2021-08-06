@@ -726,6 +726,27 @@
       'reportable' => false,
       'massupdate' => false,
     ),
+    'stud_student_documents' => 
+    array (
+      'name' => 'stud_student_documents',
+      'type' => 'link',
+      'relationship' => 'stud_student_documents',
+      'source' => 'non-db',
+      'module' => 'Documents',
+      'bean_name' => 'Document',
+      'side' => 'right',
+      'vname' => 'LBL_STUD_STUDENT_DOCUMENTS_FROM_DOCUMENTS_TITLE',
+    ),
+    'stud_student_project' => 
+    array (
+      'name' => 'stud_student_project',
+      'type' => 'link',
+      'relationship' => 'stud_student_project',
+      'source' => 'non-db',
+      'module' => 'Project',
+      'bean_name' => 'Project',
+      'vname' => 'LBL_STUD_STUDENT_PROJECT_FROM_PROJECT_TITLE',
+    ),
   ),
   'relationships' => 
   array (

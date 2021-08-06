@@ -38,4 +38,37 @@
  * display the words "Powered by SugarCRM" and "Supercharged by SuiteCRM".
  */
 $relationships = array (
+  'stud_student_documents' => 
+  array (
+    'rhs_label' => 'Documents',
+    'lhs_label' => 'Student',
+    'rhs_subpanel' => 'default',
+    'lhs_module' => 'stud_student',
+    'rhs_module' => 'Documents',
+    'relationship_type' => 'one-to-many',
+    'readonly' => false,
+    'deleted' => false,
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => false,
+    'relationship_name' => 'stud_student_documents',
+  ),
+  'stud_student_project' => 
+  array (
+    'rhs_label' => 'Projects',
+    'lhs_label' => 'Student',
+    'lhs_subpanel' => 'default',
+    'rhs_subpanel' => 'default',
+    'lhs_module' => 'stud_student',
+    'rhs_module' => 'Project',
+    'relationship_type' => 'many-to-many',
+    'readonly' => false,
+    'deleted' => false,
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => false,
+    'relationship_name' => 'stud_student_project',
+  ),
 );

@@ -1,5 +1,5 @@
 <?php
-// created: 2021-08-05 11:53:34
+// created: 2021-08-06 05:29:28
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -86,4 +86,6 @@ $mod_strings = array (
   'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activities',
   'LBL_STUD_STUDENT_SUBPANEL_TITLE' => 'Student',
   'LBL_NEW_FORM_TITLE' => 'New Student',
+  'LBL_STUD_STUDENT_DOCUMENTS_FROM_DOCUMENTS_TITLE' => 'Documents',
+  'LBL_STUD_STUDENT_PROJECT_FROM_PROJECT_TITLE' => 'Projects',
 );
