@@ -771,6 +771,17 @@
       'side' => 'right',
       'vname' => 'LBL_STUD_STUDENT_DOCUMENTS_FROM_DOCUMENTS_TITLE',
     ),
+    'stud_student_notes_1' => 
+    array (
+      'name' => 'stud_student_notes_1',
+      'type' => 'link',
+      'relationship' => 'stud_student_notes_1',
+      'source' => 'non-db',
+      'module' => 'Notes',
+      'bean_name' => 'Note',
+      'side' => 'right',
+      'vname' => 'LBL_STUD_STUDENT_NOTES_1_FROM_NOTES_TITLE',
+    ),
     'stud_student_project' => 
     array (
       'name' => 'stud_student_project',

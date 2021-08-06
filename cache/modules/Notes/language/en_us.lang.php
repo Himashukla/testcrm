@@ -1,10 +1,6 @@
 <?php
-// created: 2021-08-06 11:52:01
+// created: 2021-08-06 12:25:38
 $mod_strings = array (
-  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
-  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
-  'LBL_SECURITYGROUPS' => 'Security Groups',
-  'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Security Groups',
   'ERR_DELETE_RECORD' => 'You must specify a record number to delete the account.',
   'LBL_ACCOUNT_ID' => 'Account ID:',
   'LBL_CASE_ID' => 'Case ID:',
@@ -65,4 +61,5 @@ $mod_strings = array (
   'LBL_DATE_MODIFIED' => 'Date Modified',
   'LBL_DELETED' => 'Deleted',
   'LBL_FILE_CONTENTS' => 'File Contents',
+  'LBL_STUD_STUDENT_NOTES_1_FROM_STUD_STUDENT_TITLE' => 'Student',
 );

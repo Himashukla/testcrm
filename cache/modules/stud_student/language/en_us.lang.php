@@ -1,5 +1,5 @@
 <?php
-// created: 2021-08-06 11:52:13
+// created: 2021-08-06 12:25:38
 $mod_strings = array (
   'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
   'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
@@ -87,6 +87,7 @@ $mod_strings = array (
   'LBL_STUD_STUDENT_SUBPANEL_TITLE' => 'Student',
   'LBL_NEW_FORM_TITLE' => 'New Student',
   'LBL_ACCOUNTS_STUD_STUDENT_1_FROM_ACCOUNTS_TITLE' => 'Accounts',
+  'LBL_STUD_STUDENT_NOTES_1_FROM_NOTES_TITLE' => 'Notes',
   'LBL_STUD_STUDENT_DOCUMENTS_FROM_DOCUMENTS_TITLE' => 'Documents',
   'LBL_STUD_STUDENT_PROJECT_FROM_PROJECT_TITLE' => 'Projects',
 );
